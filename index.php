@@ -119,8 +119,8 @@
         <div class='collapse navbar-collapse' id='navbarTogglerDemo01'>
           <a class='navbar-brand' href='https://thedelhibakery.netlify.app/'>Home</a>
             <a class='navbar-brand' href='https://thedelhibakery.netlify.app/menuf.html'>Menu</a>
-            <a class='navbar-brand' href='https://bookseat.herokuapp.com/'>Book a Seat</a>
-            <a class='navbar-brand' href='https://reviewonlinebakery.herokuapp.com/'>Reviews</a>
+            <a class='navbar-brand' href='https://bookseat.herokuapp.com'>Book a Seat</a>
+            <a class='navbar-brand' href='https://reviewonlinebakery.herokuapp.com'>Reviews</a>
             <a class='navbar-brand' href='https://thedelhibakery.netlify.app/timing.html'>Timings</a>
         </div>
       </nav>
@@ -259,8 +259,8 @@
         <div class='collapse navbar-collapse' id='navbarTogglerDemo01'>
           <a class='navbar-brand' href='https://thedelhibakery.netlify.app/'>Home</a>
             <a class='navbar-brand' href='https://thedelhibakery.netlify.app/menuf.html'>Menu</a>
-            <a class='navbar-brand' href='https://bookseat.herokuapp.com/'>Book a Seat</a>
-            <a class='navbar-brand' href='https://reviewonlinebakery.herokuapp.com/'>Reviews</a>
+            <a class='navbar-brand' href='https://bookseat.herokuapp.com'>Book a Seat</a>
+            <a class='navbar-brand' href='https://reviewonlinebakery.herokuapp.com'>Reviews</a>
             <a class='navbar-brand' href='https://thedelhibakery.netlify.app/timing.html'>Timings</a>
         </div>
       </nav>
@@ -392,8 +392,8 @@
         <div class='collapse navbar-collapse' id='navbarTogglerDemo01'>
           <a class='navbar-brand' href='https://thedelhibakery.netlify.app/'>Home</a>
             <a class='navbar-brand' href='https://thedelhibakery.netlify.app/menuf.html'>Menu</a>
-            <a class='navbar-brand' href='https://bookseat.herokuapp.com/'>Book a Seat</a>
-            <a class='navbar-brand' href='https://reviewonlinebakery.herokuapp.com/'>Reviews</a>
+            <a class='navbar-brand' href='https://bookseat.herokuapp.com'>Book a Seat</a>
+            <a class='navbar-brand' href='https://reviewonlinebakery.herokuapp.com'>Reviews</a>
             <a class='navbar-brand' href='https://thedelhibakery.netlify.app/timing.html'>Timings</a>
         </div>
       </nav>
