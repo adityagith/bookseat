@@ -117,11 +117,11 @@
           <span class='navbar-toggler-icon'></span>
         </button>
         <div class='collapse navbar-collapse' id='navbarTogglerDemo01'>
-          <a class='navbar-brand' href='home.html'>Home</a>
-          <a class='navbar-brand' href='menuf.html'>Menu</a>
-          <a class='navbar-brand' href='#'>Book a Seat</a>
-          <a class='navbar-brand' href='#'>Reviews</a>
-          <a class='navbar-brand' href='timing.html'>Timings</a>
+          <a class='navbar-brand' href='https://thedelhibakery.netlify.app/'>Home</a>
+            <a class='navbar-brand' href='https://thedelhibakery.netlify.app/menuf.html'>Menu</a>
+            <a class='navbar-brand' href='https://bookseat.herokuapp.com/'>Book a Seat</a>
+            <a class='navbar-brand' href='https://reviewonlinebakery.herokuapp.com/'>Reviews</a>
+            <a class='navbar-brand' href='https://thedelhibakery.netlify.app/timing.html'>Timings</a>
         </div>
       </nav>
             <div class='contain'>
@@ -257,11 +257,11 @@
           <span class='navbar-toggler-icon'></span>
         </button>
         <div class='collapse navbar-collapse' id='navbarTogglerDemo01'>
-          <a class='navbar-brand' href='home.html'>Home</a>
-          <a class='navbar-brand' href='menuf.html'>Menu</a>
-          <a class='navbar-brand' href='#'>Book a Seat</a>
-          <a class='navbar-brand' href='#'>Reviews</a>
-          <a class='navbar-brand' href='timing.html'>Timings</a>
+          <a class='navbar-brand' href='https://thedelhibakery.netlify.app/'>Home</a>
+            <a class='navbar-brand' href='https://thedelhibakery.netlify.app/menuf.html'>Menu</a>
+            <a class='navbar-brand' href='https://bookseat.herokuapp.com/'>Book a Seat</a>
+            <a class='navbar-brand' href='https://reviewonlinebakery.herokuapp.com/'>Reviews</a>
+            <a class='navbar-brand' href='https://thedelhibakery.netlify.app/timing.html'>Timings</a>
         </div>
       </nav>
             <div class='contain'>
@@ -390,11 +390,11 @@
           <span class='navbar-toggler-icon'></span>
         </button>
         <div class='collapse navbar-collapse' id='navbarTogglerDemo01'>
-          <a class='navbar-brand' href='home.html'>Home</a>
-          <a class='navbar-brand' href='menuf.html'>Menu</a>
-          <a class='navbar-brand' href='#'>Book a Seat</a>
-          <a class='navbar-brand' href='#'>Reviews</a>
-          <a class='navbar-brand' href='timing.html'>Timings</a>
+          <a class='navbar-brand' href='https://thedelhibakery.netlify.app/'>Home</a>
+            <a class='navbar-brand' href='https://thedelhibakery.netlify.app/menuf.html'>Menu</a>
+            <a class='navbar-brand' href='https://bookseat.herokuapp.com/'>Book a Seat</a>
+            <a class='navbar-brand' href='https://reviewonlinebakery.herokuapp.com/'>Reviews</a>
+            <a class='navbar-brand' href='https://thedelhibakery.netlify.app/timing.html'>Timings</a>
         </div>
       </nav>
            <div class='contain'>
