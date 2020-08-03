@@ -399,7 +399,7 @@
       </nav>
            <div class='contain'>
                <div class='box1'>
-                   <form method='POST' action='dbook.php' id='form'>
+                   <form method='POST' action='https://bookseat.herokuapp.com' id='form'>
                        <center>
                            <center><h1>Why to wait? Book a table</h1></center>
                        <input type='text' name='name' id='name' placeholder='Enter your name'>
